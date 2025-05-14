@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "5 learnings from 5 years in tech"
+date:   2025-05-14
+categories: career
+---
+
+1. **It will be boring sometimes**
+
+   When you are fresh in tech, you might think you will be working on cool stuff daily, and you very well might. But the matter of fact is, you will have days where the work is plain out boring. Not every day will you be working on stuff that you think is fun, and to wish that from a job is foolish. There is no way your personal needs will be fully satisfied by a job. This is why it is important to never stop learning on the side. Whatever you do from 9 to 5, please don't stop learning new things on your own. Build projects, explore. Don't rely on your job to fulfill your creative needs.
+
+2. **Not everyone will care**
+
+   You will quickly learn that not everyone around you cares about things as much as you think they should. You will meet people from all walks of life; they will be there for different reasons. Some will be there to pay the bills, some are just drifting through life, and some (though rare) are there because they actually love doing the job. Whatever their purpose is, you've got to have the skill of understanding people and what drives them. Also, be kind to people and help them whenever you can. If you can't be kind, don't be an asshole. A job is hard enough already; don't make it harder for others.
+
+3. **Visibility matters**
+
+   You might be doing a great job, but it will not matter if there's no one to see it. If you want to rise through the ranks quickly, you might want to focus on this from the early stages of your career. I’ve seen some people who focus on this more than their actual job, please don’t be that guy. You might be able to fool most people, but the people you work with daily will know who you actually are. And for me, that’s what matters more than visibility: being a help to your day-to-day team. I am strictly against having to justify your growth to someone you don’t work with daily. But if you care about your job title, you need to be visible to folks. It's just how the game is played.
+
+4. **Negotiate, communicate**
+
+   Money matters, and like most things in life, you will not get it if you don't ask. You have to remember, everyone is there for themselves and in this case, the company is too. It is very naive to think that if you just do a good job, you will be given what you think you are worth. If you're the kind of person who can't bargain at a shop if your life depended on it, you will have a difficult time in corporate. Don't be afraid to ask, and if you think you are undervalued, don't be afraid to leave. Don't be tied to a company, and for the love of God, don't develop a sense of belonging to a company. Learn to communicate. You don't have to go full corporate nonsense jargon-spewing guy, but please don't expect people to understand you without communicating.
+
+5. **Learn actual skillz**
+
+   Don't be a one-framework guy. Try to learn things that are universal, things that apply to whatever endeavor you take on in your programming journey. Things like how a CPU works, how cache lines work, how memory works, what happens in the computer when you actually run the program. These are things that will remain mostly the same no matter what’s hot in the industry right now. Don’t blindly follow trends. It’s okay to do new things if you find them interesting, but don’t do it just because "it will look good on a resume." If you got introduced to programming via web development, you don't have to stick to it. There are so many cool things that you can fall in love with. Don't stick to a framework or a language, go deeper.
+
+<p></p>
+
+As a bonus, do something in your life other than code. Don't be that guy who has nothing to talk about other than computers. Go do other things, pick up a sport, start reading books, go travel new places with friends, go travel new places alone, start writing a blog. Build character. Don't just be a nerd. Be a nerd and more.
